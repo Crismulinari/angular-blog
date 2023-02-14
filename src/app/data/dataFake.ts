@@ -19,8 +19,8 @@ export const dataFake = [
   },
   {
     "id": "4",
-    "photoCover": "https://images.wallpapersden.com/image/download/star-wars-the-clone-wars-season-6_a2xqZ2qUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+    "photoCover": "https://tse4.mm.bing.net/th?id=OIP.2XyIr04CBX0BhsYBZ3z3PwHaEK&pid=Api&P=0",
     "title": "Star Wars The Clone Wars Season 6 Wallpaper",
-    "description": "Olá Mundo"
+    "description": "Against a backdrop of ever-shifting loyalties, uneasy alliances and ancient hostilities, the conflict between the Republic and the Separatists ramps up, setting the stage for Darth Sidious' ultimate act of treachery against the Jedi. In these uncertain times, some of the deepest mysteries of the light and dark sides of the Force are revealed as an intrepid clone trooper uncovers a shocking conspiracy, Anakin Skywalker's closest relationship is tested to its limits, and Master Yoda makes a discovery that could forever change the balance of power in the galaxy."
   }
 ];
