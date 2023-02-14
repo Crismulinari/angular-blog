@@ -2,8 +2,8 @@ export const dataFake = [
   {
   "id": "1",
   "photoCover": "https://tse3.mm.bing.net/th?id=OIP.Ll1gTnmx3j8Ei0sT3QNS2AHaEo&pid=Api&P=0",
-  "title": "Minha noticia",
-  "description": "Olá Mundo"
+  "title": "Vader to appear in Star Wars spinoff",
+  "description": "While everyone’s favorite darksider probably won’t appear in the new trilogy (with him being dead and all), he will reportedly make an appearance in Star Wars Anthology: Rogue One, an intriguing prequel of sorts that follows a motley crew of rebels that steal the plans for the Death Star."
   },
   {
     "id": "2",
