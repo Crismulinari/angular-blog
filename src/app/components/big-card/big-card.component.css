@@ -27,3 +27,13 @@
 .big-card__description > p > a{
   color: gray;
 }
+
+@media screen and (max-width: 720px){
+  .container__big-card{
+      width: 90%;
+      align-items: center;
+
+
+  }
+
+}
